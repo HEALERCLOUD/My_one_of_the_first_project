@@ -1,0 +1,117 @@
+body
+{
+    background: linear-gradient(#a2d2ff,#efb0c9);
+    color: #ffffff;
+    font-family: 'Happy Monkey', cursive;
+    text-shadow: 0.1px 0.1px 2px black;
+}
+#sandro
+{
+    width: 150px;
+    border-radius: 100%;
+    border: 5px solid;
+    border-color: #efb0c9;
+}
+.main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.style
+{
+    margin: 7px;
+    background-color: #efb0c9;
+    border-radius: 5px;
+    padding: 5px;
+}
+.gift
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift_1
+{
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    background-image: url(gift.webp);
+    border: 5px solid;
+    border-color: white;
+    border-radius: 10px ;
+}
+.gift_1:hover
+{
+    background-image: url(giphy\ \(1\).gif);
+    background-size: cover;
+}
+.gift_2
+{
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    background-image: url(gift.webp);
+    border: 5px solid;
+    border-color: white;
+    border-radius: 10px ;
+}
+.gift_2:hover
+{
+    background-image: url(giphy\ \(2\).gif);
+    background-size: cover;
+}
+.gift_3
+{
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    background-image: url(gift.webp);
+    border: 5px solid;
+    border-color: white;
+    border-radius: 10px ;
+}
+.gift_3:hover
+{
+    background-image: url(giphy\ \(3\).gif);
+    background-size: cover;
+}
+.gift_4
+{
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    background-image: url(gift.webp);
+    border: 5px solid;
+    border-color: white;
+    border-radius: 10px ;
+}
+.gift_4:hover
+{
+    background-image: url(giphy\ \(4\).gif);
+    background-size: cover;
+}
+#gift_cheers
+{
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    background-image: url(gift.webp);
+    border: 5px solid;
+    border-color: white;
+    border-radius: 10px ;
+}
+#gift_cheers:hover
+{
+    background-image: url(giphy\ \(5\).gif);
+    background-size: cover;
+}
+.footer
+{
+    width: 400px;
+    color: white;
+}
+#it
+{
+    font-style: italic;
+}

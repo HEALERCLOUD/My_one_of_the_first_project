@@ -1,0 +1,102 @@
+body
+{
+
+    flex-direction: column;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+}
+.frame
+{
+    background-image: url(images/Tbilis_close.avif);
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 200px;
+}
+#underline
+{
+    border-bottom: 4px solid;
+    color: rgb(0, 0, 0);
+}
+.text_thing
+{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#text_style
+{
+    font-size: 100px;
+    padding: 3px 5px;
+    background-color: bisque;
+    border: 0px solid;
+}
+#text_style_2
+{
+    background-color: antiquewhite;
+}
+.frame_2
+{
+    padding: 30px 50px;
+    background-color: rgb(252, 220, 179);
+}
+#header
+{
+    margin-bottom: 70px;
+    font-size: 50px;
+}
+.flax
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px;
+    margin-bottom: 200px;
+}
+.style
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.style_2
+{
+    width: 350px;
+    height: 350px;
+    font-weight: 400;
+}
+.thing
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.bold_text
+{
+    font-size: 20px;
+}
+.text_frame
+{
+    font-weight: 400;
+}
+.style_3
+{
+    padding: 100px 650px;
+}    
+.card
+{
+    display: flex;
+    background-color: burlywood;
+    padding: 30px 30px;
+    border-bottom: 7px solid royalblue;
+}
+#myself
+{
+    height: 250px;
+    width: 250px;
+}
+#card_text
+{
+    padding: 20px;
+}
